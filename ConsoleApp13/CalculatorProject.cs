@@ -11,6 +11,7 @@ namespace CalculatorConsoleProject
             int calcFunction;
             decimal result;
 
+
             Console.Write("Type your first number: ");
             num01 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Type another number: ");
